@@ -1,4 +1,4 @@
-const Authors = ['Sherbaum Valery','Erenburg Vladimir','John Golley','Wilbert Awdry','Bill Gunston','Klaus Hünecke','Irwin E. Treager'];
+const Authors = ['Meryn Babu','Varsha VP','Sravya Reddy','Nivedita Nalabolu','Hitanshi Umesh Deo'];
 const IssueDescriptions = ['Minor','Major','Urgent','Critical'];
 const RevisionDescriptions = ['Repair','Replace','Discard','Change'];
 const PartStatuses = ['ok','good','bad'];
